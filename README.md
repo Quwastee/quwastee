@@ -1,224 +1,325 @@
-# Hey, I'm Vlad 👋
+<div align="center">
 
-### Head of IT · Infrastructure · Systems · Automation · Developer
+# QUWASTEE
 
-I build, automate and maintain things that keep businesses running.
+### IT Infrastructure · Systems · Automation · Development
 
-My background sits at the intersection of **IT infrastructure, system administration, virtualization, automation and software development** — from managing Windows environments and servers to building modern web applications and internal tools.
+**I build systems, automate processes and turn complex infrastructure into something simple.**
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Quwastee-181717?style=for-the-badge\&logo=github)](https://github.com/Quwastee)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/)
+
+</div>
+
+---
+
+## 👋 Hey, I'm Vlad
+
+I'm an **IT professional and builder** focused on infrastructure, systems, automation and software.
+
+My work combines two worlds:
+
+**Infrastructure** — servers, networks, virtualization, Windows, Linux, remote environments and reliability.
+
+**Development** — modern web applications, automation, internal tools and digital products.
+
+I enjoy taking something complicated, understanding how it works, and turning it into a **reliable, automated and maintainable system**.
 
 ```text
-Infrastructure  ────────────────┐
-Systems & Networks ─────────────┤
-Virtualization ─────────────────┤
-Automation ─────────────────────┼──→  Build · Automate · Scale
-Web Development ────────────────┤
-DevOps ─────────────────────────┘
+                    ┌─────────────────────┐
+                    │       QUWASTEE       │
+                    └──────────┬──────────┘
+                               │
+             ┌─────────────────┼─────────────────┐
+             │                 │                 │
+        INFRASTRUCTURE     AUTOMATION       DEVELOPMENT
+             │                 │                 │
+       ┌─────┼─────┐       ┌───┼───┐       ┌────┼────┐
+       │     │     │       │   │   │       │    │    │
+    Servers Network  VM   Docker CI/CD   React Node APIs
+       │     │     │       │   │   │       │    │    │
+       └─────┴─────┴───────┴───┴───┴───────┴────┴────┘
+                               │
+                         BUILD · AUTOMATE
+                            · SCALE
 ```
 
 ---
 
-## ⚡ About Me
+## ⚡ What I Do
 
-* 🖥️ **Head of IT** with hands-on infrastructure experience
-* ⚙️ Experienced with **Windows Server, virtualization, networking & remote environments**
-* 🐳 Working with **Docker, Linux and automation**
-* 💻 Building applications with **React / TypeScript / modern web technologies**
-* 🧠 Currently expanding deeper into **DevOps & infrastructure engineering**
-* 🛠️ I enjoy turning repetitive processes into automated systems
-* 🚀 Building products, tools and experiments under **Quwastee Studio**
+### 🖥️ Infrastructure
 
----
-
-## 🧰 Tech Stack
-
-### Infrastructure
-
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge\&logo=windows\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge\&logo=proxmox\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge\&logo=wireguard\&logoColor=white)
-
-### Development
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge\&logo=obsidian\&logoColor=white)
-
----
-
-## 🚀 What I Build
-
-### 🏢 IT Infrastructure
-
-Designing and maintaining reliable business infrastructure:
-
-* Windows Server environments
+* Windows Server
+* Linux
 * Virtualization
-* Remote Desktop infrastructure
-* Network architecture
-* User & device management
-* Backups
+* Proxmox
+* Remote Desktop environments
+* Networking
+* VPN
+* Backup infrastructure
 * Monitoring
-* VPN / secure remote access
-* Infrastructure automation
+* System administration
+* Infrastructure planning
 
-### 🤖 Automation
+### ⚙️ Automation
 
 I like eliminating repetitive work.
 
-From internal business processes to infrastructure management, my goal is simple:
+If a process happens repeatedly, I look for a way to make it:
 
-> **If something can be automated, it probably should be.**
+**faster → simpler → automated → reliable**
 
-### 💻 Software
+I'm interested in:
 
-I build modern web applications, internal tools and experimental products.
+* Infrastructure automation
+* Scripts
+* APIs
+* Docker
+* CI/CD
+* Internal business automation
+* AI-assisted workflows
+* Developer tooling
 
-Current interests:
+### 💻 Development
+
+I build modern applications and internal tools using:
 
 * React
 * TypeScript
+* JavaScript
 * Node.js
-* APIs
-* Automation
-* AI-powered tools
-* SaaS
-* Developer tooling
+* Vite
+* REST APIs
+* Modern UI/UX
+
+I'm particularly interested in the space where **software meets infrastructure**.
 
 ---
 
-## 🔥 Featured Projects
+# 🧰 Tech Stack
 
-> A selection of things I'm building, experimenting with and learning from.
+<div align="center">
 
-### 🧩 Quwastee Studio
+### Infrastructure & Systems
+
+<img src="https://skillicons.dev/icons?i=windows,linux,docker,proxmox,bash,powershell" />
+
+### Development
+
+<img src="https://skillicons.dev/icons?i=typescript,javascript,react,nodejs,vite,html,css" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,obsidian" />
+
+</div>
+
+---
+
+# 🚀 Projects
+
+## 🧩 Quwastee Studio
 
 **Software · Automation · Digital Products**
 
-A personal development studio focused on building useful software, tools and digital products.
+A personal development studio focused on building useful software, automation tools and digital products.
+
+The goal is simple:
+
+> **Build things that are actually useful.**
 
 **Status:** 🟢 Building
 
 ---
 
-### 📊 Habitryptix
+## 📊 Habitryptix
 
-A lightweight habit-tracking concept focused on making personal progress measurable and visual.
+A habit-tracking concept designed around a simple idea:
 
-**Stack:** React · TypeScript · Vite
+**make personal progress measurable.**
+
+Focus:
+
+* Habit tracking
+* Progress visualization
+* Data
+* Productivity
+* Personal development
+
+**Stack:** `React` `TypeScript` `Vite`
 
 **Status:** 🟡 In development
 
 ---
 
-### 🛠️ Infrastructure Lab
+## 🛠️ Infrastructure Lab
 
-A personal playground for experimenting with:
+My personal environment for experimenting with infrastructure and DevOps.
 
-* Linux
-* Windows Server
-* Virtualization
-* Docker
-* Networking
-* VPN
-* CI/CD
-* DevOps
+Areas of experimentation:
+
+```text
+Linux
+Docker
+Windows Server
+Virtualization
+Networking
+VPN
+CI/CD
+Monitoring
+Automation
+Security
+```
 
 **Status:** 🟢 Always evolving
 
 ---
 
-## 📈 Currently Learning
+# 🧠 Currently Learning
+
+I'm currently going deeper into **DevOps and modern infrastructure engineering**.
 
 ```yaml
-DevOps:
-  - Linux
-  - Docker
-  - CI/CD
-  - Infrastructure as Code
-  - Cloud
-  - Monitoring
+devops:
+  linux: learning
+  docker: active
+  ci_cd: learning
+  infrastructure_as_code: learning
+  cloud: learning
+  monitoring: learning
 
-Development:
-  - TypeScript
-  - React
-  - Node.js
-  - Backend architecture
-  - APIs
+development:
+  typescript: active
+  react: active
+  nodejs: active
+  backend_architecture: learning
+  api_design: learning
 
-Infrastructure:
-  - Networking
-  - Virtualization
-  - Security
-  - Automation
+infrastructure:
+  networking: active
+  virtualization: active
+  automation: active
+  security: learning
 ```
 
 ---
 
-## 🎯 2026 → 2027
+# 🏗️ How I Think
+
+I don't want to simply learn technologies.
+
+I want to understand **systems**.
 
 ```text
-[████████████████░░░░]  DevOps
-[██████████████░░░░░░]  Software Engineering
-[███████████████░░░░░]  Infrastructure
-[███████████░░░░░░░░░]  Cloud
-[████████████░░░░░░░░]  Automation
+Understand
+    ↓
+Build
+    ↓
+Break
+    ↓
+Fix
+    ↓
+Automate
+    ↓
+Improve
+    ↓
+Repeat
 ```
 
-The goal isn't to collect technologies.
-
-The goal is to **understand systems deeply enough to build them better.**
+The best way to learn infrastructure and development is to actually build things.
 
 ---
 
-## 💡 Philosophy
+# 🎯 My Direction
 
-> **Build systems, not just solutions.**
+```text
+                    ┌─────────────────┐
+                    │    ENGINEERING  │
+                    └────────┬────────┘
+                             │
+              ┌──────────────┼──────────────┐
+              ↓              ↓              ↓
+        Infrastructure   Development    Automation
+              │              │              │
+              └──────────────┼──────────────┘
+                             ↓
+                         DevOps
+                             ↓
+                      Cloud & Systems
+                             ↓
+                       BUILD BETTER
+```
 
-> **Automate the boring stuff.**
-
-> **Learn by building.**
-
-> **Make it work. Make it reliable. Make it better.**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🌐 Find Me
-
-<p align="left">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+My long-term direction is to become a stronger **Infrastructure / DevOps / Systems Engineer** while continuing to build software and products.
 
 ---
 
-<p align="center">
+# 📈 GitHub
 
-### ⚡ Building. Automating. Learning.
+<div align="center">
 
-**© 2026 Vlad · Quwastee Studio**
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Quwastee&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
 
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quwastee&layout=compact&hide_border=true&theme=transparent" />
+
+</div>
+
+---
+
+# 🐍 Contribution Graph
+
+<div align="center">
+
+![snake animation](https://raw.githubusercontent.com/Quwastee/Quwastee/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+# 💼 Professional Focus
+
+I'm interested in opportunities involving:
+
+```text
+IT Infrastructure
+Systems Administration
+DevOps
+Infrastructure Engineering
+Automation
+Cloud
+Virtualization
+Networking
+Software Development
+Internal Tools
+```
+
+I especially enjoy roles where I can combine **hands-on infrastructure work with automation and development**.
+
+---
+
+# 🌐 Connect
+
+<div align="center">
+
+<a href="https://github.com/Quwastee">
+<img src="https://img.shields.io/badge/GitHub-Quwastee-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### BUILD · AUTOMATE · IMPROVE
+
+**Quwastee · 2026**
+
+</div>
