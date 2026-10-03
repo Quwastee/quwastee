@@ -55,27 +55,7 @@ My main interests:
 
 ---
 
-## 🚀 Projects
-
-### 🧩 Quwastee Studio
-
-A collection of software experiments, automation tools and digital products.
-
-**Focus:** software · automation · developer tools
-
----
-
-### 📊 Habitryptix
-
-A gamified habit-tracking project focused on turning personal progress into measurable data.
-
-**Stack:** `TypeScript` `React` `Vite`
-
-**Status:** 🟡 In development
-
----
-
-### 🎮 Game Mods & Localization
+## 🎮 Game Mods & Localization
 
 Experiments with game modding, customization and **Ukrainian localization**.
 
@@ -85,7 +65,7 @@ Projects include tooling, localization work and experiments with game files and 
 
 ---
 
-### 🛠️ Infrastructure Lab
+## 🛠️ Infrastructure Lab
 
 A personal environment for experimenting with systems and infrastructure.
 
